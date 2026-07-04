@@ -1,0 +1,51 @@
+{
+  "Algorithm / Learning": {
+    "precision": 0.7555555555555555,
+    "recall": 0.8908296943231441,
+    "f1-score": 0.8176352705410822,
+    "support": 687.0
+  },
+  "Clustering / Clusters": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 120.0
+  },
+  "Learning / Data": {
+    "precision": 0.779705117085863,
+    "recall": 0.7541946308724832,
+    "f1-score": 0.7667377398720683,
+    "support": 1192.0
+  },
+  "Matrix / Rank": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 113.0
+  },
+  "Models / Model": {
+    "precision": 0.473967684021544,
+    "recall": 0.6786632390745502,
+    "f1-score": 0.5581395348837209,
+    "support": 389.0
+  },
+  "Neural / Networks": {
+    "precision": 0.71875,
+    "recall": 0.6913827655310621,
+    "f1-score": 0.7048008171603677,
+    "support": 499.0
+  },
+  "accuracy": 0.7066666666666667,
+  "macro avg": {
+    "precision": 0.45466305944382707,
+    "recall": 0.5025117216335399,
+    "f1-score": 0.47455222707620653,
+    "support": 3000.0
+  },
+  "weighted avg": {
+    "precision": 0.663834948439132,
+    "recall": 0.7066666666666667,
+    "f1-score": 0.68149290120734,
+    "support": 3000.0
+  }
+}
